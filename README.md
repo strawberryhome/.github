@@ -1,2 +1,3 @@
 # .github
-Meta
+
+Repository for the organization's README
